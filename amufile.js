@@ -1,3 +1,3 @@
 //hello
 // bye bye
-// this is master branch
+// this is slave
